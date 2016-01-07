@@ -3,6 +3,4 @@ to record de section i'm currently on michael hartl's Tutorial.
 
 CURRENTLY ON: 7.3.3
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+reading Chapter 12.8
